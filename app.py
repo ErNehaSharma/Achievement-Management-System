@@ -11,7 +11,7 @@ app.secret_key = secrets.token_hex(16)
 
 
 # Define database path consistently
-DB_PATH = "C:\\Users\\Dell\\Downloads\\AMS-Achievement-Management-System-main\\AMS-Achievement-Management-System-main\\Achievement-Management-System\\ams.db"
+DB_PATH = r"C:\Users\Neha Sharma\OneDrive\Pictures\Portfolio\OSCG 26\Achievement-Management-System\database.db"
 
 # Add this function to your code
 def add_teacher_id_column():
